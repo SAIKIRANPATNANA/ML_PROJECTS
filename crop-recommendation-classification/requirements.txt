@@ -1,0 +1,13 @@
+pandas
+numpy 
+scikit-learn
+seaborn
+ipykernel
+mlflow
+dvc
+matplotlib
+streamlit
+lightgbm
+xgboost
+requests
+bs4

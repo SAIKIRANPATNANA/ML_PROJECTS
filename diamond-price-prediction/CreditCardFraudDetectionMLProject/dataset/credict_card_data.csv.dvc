@@ -1,0 +1,5 @@
+outs:
+- md5: 2e8b7dc8a5c0031567429fd7666cf381
+  size: 89480
+  hash: md5
+  path: credict_card_data.csv
